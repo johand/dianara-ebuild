@@ -10,7 +10,7 @@ inherit qt4-r2 git-2
 
 DESCRIPTION="Dianara is a Qt-based pump.io client, a free (as in freedom) desktop application to manage a user's account on the pump.io distributed social network."
 HOMEPAGE="http://dianara.nongnu.org/"
-EGIT_REPO_URI="git://gitorious.org/dianara/dianara-dev.git"
+EGIT_REPO_URI="git@gitlab.com:dianara/dianara-dev.git"
 
 LICENSE="GPL-2"
 SLOT="0"
